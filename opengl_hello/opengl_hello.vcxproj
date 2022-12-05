@@ -33,6 +33,9 @@
     <ClInclude Include="lib\include\GLFW\glfw3.h" />
     <ClInclude Include="lib\include\GLFW\glfw3native.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="res\shaders\Basic.shader" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
